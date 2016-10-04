@@ -1,0 +1,62 @@
+.socials {
+	
+	text-align: center;
+	width: 7%;
+}
+.socials:hover{
+	width:8%;
+}
+h2 {
+	text-align: center;
+}
+.center-pills {
+    display: flex;
+    justify-content: center;
+}
+/*
+.red, .red .active a,
+.red .active a:hover {
+    background-color: black; 
+}
+*/
+
+#Videos{
+	text-align: center;
+}
+.alignCenter{
+	text-align: center;
+}
+.nav-tabs{
+  background-color: black;
+}
+
+.nav-pills > li > a{
+  color:black;
+}
+.nav-pills > li > a:hover{
+  background-color: #2C2A2A !important;
+   
+    color:#fff;
+}
+.nav-pills > li.active > a,
+.nav-pills > li.active > a:focus,
+.nav-pills > li.active > a:hover{
+    background-color: #2C2A2A !important;
+}
+.col-centered{
+float: none;
+margin: 0 auto;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat';
+}
+p, div {
+    font-family: 'Montserrat';
+}
+.flags {
+	height: 2%;
+	width: 2%;
+}
+.centered{
+ 	text-align: center;
+}
